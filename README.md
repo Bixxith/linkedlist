@@ -41,7 +41,7 @@ Finds and deletes all duplicate values in the linked list.
 ### _*.returnNthToLast(Nth)_
 Returns the Nth to last value in the linked list.  1st to last being the last item, 2nd to last being the next to last, etc.
 
-### _*.counterOccurances()_
+### _*.countOccurances()_
 Counts how many of each value appear in the list.
 
 ### _*.moveTailtoHead()_
